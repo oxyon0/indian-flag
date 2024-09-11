@@ -1,2 +1,2 @@
 # indian-flag
-using c programming 
+using c programming.
